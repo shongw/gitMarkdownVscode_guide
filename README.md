@@ -59,7 +59,18 @@
 ## Markdown 语言
 
 1. [Typora 的 markdown语言使用指南](./MarkdownReference.md)。
+
 2. 代码块的显示。
+
+   ```c
+   void main(){
+   
+   int tmmm;
+   
+   }
+   ```
+
+   
 
 ```C
 void main(){
